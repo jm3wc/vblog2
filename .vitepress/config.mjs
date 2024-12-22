@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:/vblog2/,
   title: '链知',
   description: 'Just playing around.',
   themeConfig: {
