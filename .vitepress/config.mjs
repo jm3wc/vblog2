@@ -5,7 +5,7 @@ export default defineConfig({
   title: '链知',
   description: 'Just playing around.',
   themeConfig: {
-    base:'/blog2/',
+    base:'/vblog2/',
     // 导航
     nav: [
       // 单个导航
